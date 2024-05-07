@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+![capoo-capoo-type](https://github.com/Pib0di/pib0di/assets/83059277/43087ec2-113c-4ab3-bd7d-42ca015f8f73)
+
 <!--
+
 **Pib0di/pib0di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
