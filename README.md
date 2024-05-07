@@ -1,9 +1,8 @@
 ### Hi there 👋
+<img src="https://c.tenor.com/WHOwHxdVSQIAAAAC/tenor.gif" alt="drawing" height="165" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pib0di&hide_progress=false&layout=compact)[![GitHub Streak](https://streak-stats.demolab.com?user=pib0di&theme=gruvbox&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
-![capoo-capoo-type](https://github.com/Pib0di/pib0di/assets/83059277/43087ec2-113c-4ab3-bd7d-42ca015f8f73) 
-img[alt=capoo-capoo-type] { width: 200px; }
-<img src="/images/output/video1.gif" alt="drawing" width="200"/>
-<img src="[/images/output/video1.gif](https://github.com/Pib0di/pib0di/assets/83059277/43087ec2-113c-4ab3-bd7d-42ca015f8f73)" width="250" height="250"/>
+---
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-dce27.web.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/pib0di)  
 <!--
 
 **Pib0di/pib0di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
