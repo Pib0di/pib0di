@@ -1,7 +1,7 @@
 ###  Hi there (👉ﾟヮﾟ)👉
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/WHOwHxdVSQIAAAAC/tenor.gif" alt="drawing" height="130" />
+  <img src="https://c.tenor.com/WHOwHxdVSQIAAAAC/tenor.gif" alt="drawing" height="150" />
 </div>
 <div id="header" align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&style=flat" alt="flutter" />
