@@ -49,7 +49,7 @@
    - PyShop (9 months)
    - White Soft (8 months)
    - freelance (5 months)
-   - idFox (...)
+   - itFox (...)
    - the works were at the same time
  - university: DVGUPS (Applied computer science "In design", baccalaureate),
 
